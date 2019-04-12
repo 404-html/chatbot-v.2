@@ -1,0 +1,25 @@
+Databases:
+
+Words
+-HashID
+-Word
+
+
+Results(temporary):
+-sentenceID
+-Sentence
+-Weight
+
+
+
+Associations:
+-WordID
+- Sentence ID
+- Weight
+
+
+
+Sentences:
+- Hashed
+- Sentence
+- Used
